@@ -93,7 +93,7 @@
 ## 6. 팀 소개
 
 이름	역할	전공	이메일
-정예준	팀장 정보컴퓨터공학부	yejun20020313@gmail.com\n
-신태일	팀원	정보컴퓨터공학부	tail01@pusan.ac.kr\n
-김세한	팀원	정보컴퓨터공학부	kimbird2002@naver.com\n
-서완준	팀원 정보컴퓨터공학부	seowanjun@pusan.ac.kr\n
+정예준	팀장 정보컴퓨터공학부	yejun20020313@gmail.com<br>
+신태일	팀원	정보컴퓨터공학부	tail01@pusan.ac.kr<br>
+김세한	팀원	정보컴퓨터공학부	kimbird2002@naver.com<br>
+서완준	팀원 정보컴퓨터공학부	seowanjun@pusan.ac.kr<br>
