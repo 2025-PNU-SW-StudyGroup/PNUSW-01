@@ -90,20 +90,7 @@
 - Node.js (v20.x 이상)
 - MySQL 설치 및 초기 DB 설정
 
-### 설치 방법
-
-```bash
-# 프론트엔드
-cd frontend
-npm install
-npm start
-
-# 백엔드
-cd backend
-npm install
-npm run dev
-
-6. 팀 소개
+## 6. 팀 소개
 
 이름	역할	전공	이메일
 정예준	팀장 정보컴퓨터공학부	yejun20020313@gmail.com
