@@ -81,8 +81,14 @@
 
 ### 3.4. 디렉토리 구조
 
-너의하루는/<br> ├── frontend/ # React 앱<br> ├── backend/ # Node.js + Express 서버 <br>├── docs/ # 발표자료, 보고서 등 │<br> ├── 기획서.pdf │<br> └── 최종보고서.pdf<br> ├── README.md<br> └── .gitignore<br>
-
+너의하루는/
+├── frontend/          # React 앱
+├── backend/           # Node.js + Express 서버
+├── docs/              # 발표자료, 보고서 등
+│   ├── 기획서.pdf
+│   └── 최종보고서.pdf
+├── README.md
+└── .gitignore
 
 ## 4. 설치 및 사용 방법
 
