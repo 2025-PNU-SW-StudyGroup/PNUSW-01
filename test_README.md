@@ -79,3 +79,34 @@
 ### 3.4. 디렉토리 구조
 
 
+### 3.4. 디렉토리 구조
+
+너의하루는/ ├── frontend/ # React 앱 ├── backend/ # Node.js + Express 서버 ├── docs/ # 발표자료, 보고서 등 │ ├── 기획서.pdf │ └── 최종보고서.pdf ├── README.md └── .gitignore
+
+
+## 4. 설치 및 사용 방법
+
+### 설치 전 준비사항
+- Node.js (v20.x 이상)
+- MySQL 설치 및 초기 DB 설정
+
+### 설치 방법
+
+```bash
+# 프론트엔드
+cd frontend
+npm install
+npm start
+
+# 백엔드
+cd backend
+npm install
+npm run dev
+
+6. 팀 소개
+
+이름	역할	전공	이메일
+정예준	팀장 정보컴퓨터공학부	yejun20020313@gmail.com
+신태일	팀원	정보컴퓨터공학부	tail01@pusan.ac.kr
+김세한	팀원	정보컴퓨터공학부	kimbird2002@naver.com
+서완준	팀원 정보컴퓨터공학부	seowanjun@pusan.ac.kr
